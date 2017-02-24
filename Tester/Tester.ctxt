@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=
+comment1.target=Tester()
+comment10.params=x\ y
+comment10.target=int\ p9(int,\ int)
+comment11.params=s\ pos
+comment11.target=java.lang.String\ wow(java.lang.String,\ int)
+comment2.params=x
+comment2.target=void\ p1(int)
+comment3.params=x
+comment3.target=void\ p2(int)
+comment4.params=x
+comment4.target=void\ p3(int)
+comment5.params=x
+comment5.target=void\ p4(int)
+comment6.params=x
+comment6.target=void\ p5(int)
+comment7.params=x
+comment7.target=int\ p6(int)
+comment8.params=x
+comment8.target=int\ p7(int)
+comment9.params=x\ y
+comment9.target=int\ p8(int,\ int)
+numComments=12
