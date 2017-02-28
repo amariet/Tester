@@ -1,8 +1,6 @@
 
 /**
- * Implements recursion problems from the test review questions
  * 
- * @Kara Herson
  * @2/23/2017
  */
 public class TestReview
